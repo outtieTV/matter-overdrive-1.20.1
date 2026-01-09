@@ -7,7 +7,7 @@ Install eclipse.<br />
 Install 7-zip.<br />
 Download my attempt at porting matter overdrive from 1.19.2 to 1.20.1<br />
 Extract.<br />
-Open cmd.exe and go to cd /D <directory you extracted to><br />
+Open cmd.exe and go to cd /D \<directory you extracted to\><br />
 Type "gradlew eclipse" without quotes and press enter.<br />
 Open Eclipse and go to file -> import -> existing gradle project<br />
 Compile and fix as many errors as you can!<br />
