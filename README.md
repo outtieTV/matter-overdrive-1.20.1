@@ -13,4 +13,5 @@ Open Eclipse and go to file -> import -> existing gradle project<br />
 Compile and fix as many errors as you can!<br />
 <br />
 The previous community attempt can be found here, which has roughly 1,200 errors: https://github.com/chauve-dev/MatterOverdrive-Community-Edition-port-1.20.1 <br />
-Whereas my attempt has roughly 700 errors.<img width="650" height="19" alt="image" src="https://github.com/user-attachments/assets/1dc49bc2-5176-4e12-b84a-3c2667cac1de" />
+Whereas my attempt has roughly 650 errors.<img width="654" height="19" alt="image" src="https://github.com/user-attachments/assets/3ee8cb0a-d6a1-4bba-9244-478ef431c8b4" />
+
